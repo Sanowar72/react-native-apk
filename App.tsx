@@ -64,7 +64,7 @@ function App(): React.JSX.Element {
 
   return (
     <SafeAreaView style={backgroundStyle}>
-      <Text>Hello this for ios gvcfigvoubo app</Text>
+      <Text>Hello this for cyghi4 app</Text>
     </SafeAreaView>
   );
 }
